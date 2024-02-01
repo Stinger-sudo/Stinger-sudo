@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stinger
 - 👀 I’m interested in programming and coding
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on backend development
 - 📫 How to reach me instagram @stinger_chronicles Twitter@Stingercoke1
 - 😄 Pronouns: 
