@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and coding
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on backend development
-- 📫 How to reach me instagram @stinger_chronicles Twitter@Stingercoke1
+- 📫 How to reach me instagram @stinger_chronicles Twitter@Stingerchronicl
 - 😄 Pronouns: 
 - ⚡ Fun fact: AI is future
 
